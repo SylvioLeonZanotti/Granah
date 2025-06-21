@@ -160,14 +160,6 @@ O objetivo é apresentar sua arquitetura, complexidade técnica e capacidade de 
 
 ## 📎 Capturas de Tela (em breve)
 
-> Adicione aqui prints com os nomes abaixo, após capturar:
-
-- `📷 granah_whatsapp_bot.jpg` — Exemplo de conversa com o bot (extração de nota)
-- `📊 granah_dashboard_home.jpg` — Tela inicial do dashboard com gráficos
-- `📋 granah_edicao_inline.jpg` — Modal de edição de lançamentos
-- `🧾 granah_pdf_relatorio.jpg` — Geração de relatório mensal em PDF
-- `🔐 granah_token_autenticacao.jpg` — Tela de acesso com token individual
-
 ---
 
 ## 🧩 Features em desenvolvimento

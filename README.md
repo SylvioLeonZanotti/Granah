@@ -108,10 +108,14 @@
 
 ---
 
-## 🚧 Status
-- ✅ Em produção e 100% funcional
-- 🔒 Código fechado
-- 🧪 Em constante evolução com novos módulos (PIX, metas colaborativas, etc.)
+## 📷 Screenshots
+
+![image](https://github.com/user-attachments/assets/934d1e73-a5bf-4766-b303-b06e21d4b098)
+![image](https://github.com/user-attachments/assets/f8d791d5-b9a7-41dc-b19b-497b7ddb3a7f)
+![image](https://github.com/user-attachments/assets/515b712e-aa54-42f3-8d88-1cdcdbd94ced)
+
+
+
 
 ---
 
